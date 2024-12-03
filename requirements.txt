@@ -4,6 +4,3 @@ leafmap
 owslib
 streamlit
 pydeck
-pandas
-request
-
